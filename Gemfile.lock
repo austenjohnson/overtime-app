@@ -39,7 +39,7 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     arel (6.0.3)
-    autoprefixer-rails (6.5.4)
+    autoprefixer-rails (6.6.0)
       execjs
     bcrypt (3.1.11)
     binding_of_caller (0.7.2)
@@ -82,6 +82,7 @@ GEM
       railties (>= 3.0.0)
     globalid (0.3.7)
       activesupport (>= 4.1.0)
+    gritter (1.2.0)
     i18n (0.7.0)
     jbuilder (2.6.1)
       activesupport (>= 3.0.0, < 5.1)
@@ -204,6 +205,7 @@ DEPENDENCIES
   database_cleaner
   devise (~> 4.2)
   factory_girl_rails (~> 4.7)
+  gritter (= 1.2.0)
   jbuilder (~> 2.0)
   jquery-rails
   pg (~> 0.15)
