@@ -16,7 +16,6 @@ group :development, :test do
   gem 'capybara'
   gem 'database_cleaner'
   gem 'factory_girl_rails', '~> 4.7'
-  gem 'dotenv-rails'
 end
 
 group :development do
@@ -26,10 +25,11 @@ end
 
 gem 'devise', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
-gem 'gritter', '1.2.0'
-gem 'administrate', '~> 0.2.2'
+gem "gritter", "1.2.0"
+gem "administrate", "~> 0.2.2"
 gem 'bourbon'
 gem 'pundit', '~> 1.1'
 gem 'puma', '~> 3.4'
-gem 'twilio-ruby', '~> 4.9'
-gem 'kaminari', '~>0.17.0'
+gem 'twilio-ruby', '~> 4.11', '>= 4.11.1'
+gem 'dotenv-rails', :groups => [:development, :test]
+gem 'kaminari', '~> 0.17.0'
