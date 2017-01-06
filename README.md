@@ -20,11 +20,10 @@
 - x Update audit log status when an overtime is rejected
 - x Update buttons on employee homepage so they show on mobile
 - x Add the full date range in each button
-- Update button sort order on employee homepage
-- Remove unnecessary navbar buttons for managers
-- Fix admin dashboard config bug
+- x Update button sort order on employee homepage
+- x Remove unnecessary navbar buttons for managers
+- x Fix admin dashboard config bug
 - Implement honeybadger for air reporting
 - Implement new relic for keeping the site alive
-- Check on data issue and verify correct hours are
 
 ## TODOS:
