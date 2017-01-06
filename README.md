@@ -17,13 +17,14 @@
 - x Needs to be documented if employee did not log overtime
 - x Create audit log for each text message
 - x Need to update end_date when confirmed
-- Update audit log status when an overtime is rejected
-- Update buttons on employee homepage so they show on mobile
-- Add the full date range in each button
+- x Update audit log status when an overtime is rejected
+- x Update buttons on employee homepage so they show on mobile
+- x Add the full date range in each button
 - Update button sort order on employee homepage
 - Remove unnecessary navbar buttons for managers
 - Fix admin dashboard config bug
 - Implement honeybadger for air reporting
 - Implement new relic for keeping the site alive
+- Check on data issue and verify correct hours are
 
 ## TODOS:
